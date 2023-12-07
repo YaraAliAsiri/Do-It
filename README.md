@@ -1,10 +1,2 @@
-# header 1
-## header 2
-### header 3
-#### header 4
-##### header 5
-###### header 6
-
-
-learn course git & github from zero to Hero
+" This is a an exercise to apply some changes to Do-it project."
 
